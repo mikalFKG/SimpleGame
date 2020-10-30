@@ -126,7 +126,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4862411744332608345}
-  - component: {fileID: 4100437441077026410}
+  - component: {fileID: 380607952680909976}
   m_Layer: 0
   m_Name: Manager-MenuNavigation
   m_TagString: Untagged
@@ -148,7 +148,7 @@ Transform:
   m_Father: {fileID: 622460505102474956}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &4100437441077026410
+--- !u!114 &380607952680909976
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4018745712466405390}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7e72a594e0e5e9b4bb45d12b2f3cdead, type: 3}
+  m_Script: {fileID: 11500000, guid: b029df239576f354ba61322135450e17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &4161429626557204859
