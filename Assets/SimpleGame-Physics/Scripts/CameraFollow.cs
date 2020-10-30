@@ -12,8 +12,34 @@ namespace SimpleGame
     // This is the object we should follow
     public Transform FollowThis;
 
-    //TODO: During which update function should we move the camera?
-    
+    //TODO: During which function should we move the camera?
+
+    private void Update ( )
+    {
+
+    }
+
+    private void FixedUpdate ( )
+    {
+      
+    }
+
+    private void LateUpdate ( )
+    {
+      
+    }
+
+    private void OnPostRender ( )
+    {
+      
+    }
+
+    private void OnPreRender ( )
+    {
+      
+    }
+
+
 
   }
 }
